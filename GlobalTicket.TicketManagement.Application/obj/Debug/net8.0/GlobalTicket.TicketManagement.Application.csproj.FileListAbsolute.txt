@@ -1,0 +1,15 @@
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\bin\Debug\net8.0\GlobalTicket.TicketManagement.Application.deps.json
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\bin\Debug\net8.0\GlobalTicket.TicketManagement.Application.dll
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\bin\Debug\net8.0\GlobalTicket.TicketManagement.Application.pdb
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\bin\Debug\net8.0\GlobalTicket.TicketManagement.Domain.dll
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\bin\Debug\net8.0\GlobalTicket.TicketManagement.Domain.pdb
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\GlobalTicket.TicketManagement.Application.csproj.AssemblyReference.cache
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\GlobalTicket.TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\GlobalTicket.TicketManagement.Application.AssemblyInfoInputs.cache
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\GlobalTicket.TicketManagement.Application.AssemblyInfo.cs
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\GlobalTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\GlobalTi.3C68C4BC.Up2Date
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\GlobalTicket.TicketManagement.Application.dll
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\refint\GlobalTicket.TicketManagement.Application.dll
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\GlobalTicket.TicketManagement.Application.pdb
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\ref\GlobalTicket.TicketManagement.Application.dll

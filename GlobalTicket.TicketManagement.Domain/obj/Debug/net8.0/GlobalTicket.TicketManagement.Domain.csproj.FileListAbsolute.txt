@@ -1,0 +1,11 @@
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\bin\Debug\net8.0\GlobalTicket.TicketManagement.Domain.deps.json
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\bin\Debug\net8.0\GlobalTicket.TicketManagement.Domain.dll
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\bin\Debug\net8.0\GlobalTicket.TicketManagement.Domain.pdb
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\net8.0\GlobalTicket.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\net8.0\GlobalTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\net8.0\GlobalTicket.TicketManagement.Domain.AssemblyInfo.cs
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\net8.0\GlobalTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\net8.0\GlobalTicket.TicketManagement.Domain.dll
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\net8.0\refint\GlobalTicket.TicketManagement.Domain.dll
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\net8.0\GlobalTicket.TicketManagement.Domain.pdb
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\net8.0\ref\GlobalTicket.TicketManagement.Domain.dll
