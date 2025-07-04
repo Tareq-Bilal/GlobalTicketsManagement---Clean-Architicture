@@ -10,5 +10,7 @@ namespace GlobalTicket.TicketManagement.Application.Contracts.Presistence
     public interface ICategoryRepository : IAsyncRepository<Category>
     {
         Task<List<Category>> GetCategoriesWithEvents(bool InclusePassedEevnts);
+
+        Task<bool> CategoryNameExist(string name);
     }
 }

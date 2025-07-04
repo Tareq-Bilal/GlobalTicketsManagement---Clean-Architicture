@@ -13,3 +13,4 @@ D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement
 D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\refint\GlobalTicket.TicketManagement.Application.dll
 D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\GlobalTicket.TicketManagement.Application.pdb
 D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\ref\GlobalTicket.TicketManagement.Application.dll
+D:\TAREQ\Plurasight - .NET Core Clean Architicture\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Application\obj\Debug\net8.0\GlobalTicket.TicketManagement.Application.sourcelink.json

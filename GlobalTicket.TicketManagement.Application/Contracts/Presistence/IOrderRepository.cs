@@ -9,6 +9,7 @@ namespace GlobalTicket.TicketManagement.Application.Contracts.Presistence
 {
     public interface IOrderRepository : IAsyncRepository<Order>
     {
+        Task<List<Order>> GetOrdersByCustomerAsync(Guid UserId);
 
     }
 }

@@ -40,6 +40,7 @@ namespace GlobalTicket.TicketManagement.Application.Features.Events.Commands.Upd
               destination types for this particular mapping operation,
               which can be useful when you have multiple mappings between similar types).
               */
+
             _mapper.Map(request, eventToUpdate, typeof(UpdateEventCommand), typeof(Event));
             
             await _eventRepository.UpdateAsync(eventToUpdate);

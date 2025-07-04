@@ -1,0 +1,809 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.presistence\\presistenceserviceregestration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|solutionrelative:globalticket.ticketmanagement.presistence\\presistenceserviceregestration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\applicationserviceregestration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\applicationserviceregestration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.presistence\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|solutionrelative:globalticket.ticketmanagement.presistence\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.presistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|solutionrelative:globalticket.ticketmanagement.presistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\contracts\\presistence\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\contracts\\presistence\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.presistence\\repositories\\eeventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|solutionrelative:globalticket.ticketmanagement.presistence\\repositories\\eeventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.presistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|solutionrelative:globalticket.ticketmanagement.presistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\contracts\\presistence\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\contracts\\presistence\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\categories\\commands\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\categories\\commands\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\categories\\commands\\createcategorycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\categories\\commands\\createcategorycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\events\\commands\\createevent\\createeventcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\events\\commands\\createevent\\createeventcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.presistence\\globalticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|solutionrelative:globalticket.ticketmanagement.presistence\\globalticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.presistence\\conigurations\\eventconiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8D2EDD-D97C-4398-9C73-A5C411501013}|GlobalTicket.TicketManagement.Presistence\\GlobalTicket.TicketManagement.Presistence.csproj|solutionrelative:globalticket.ticketmanagement.presistence\\conigurations\\eventconiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\events\\commands\\createevent\\createeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\events\\commands\\createevent\\createeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\contracts\\presistence\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\contracts\\presistence\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1469FDD4-90C4-4D64-B49A-0482B40B2E57}|GlobalTicket.TicketManagement.Domain\\GlobalTicket.TicketManagement.Domain.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1469FDD4-90C4-4D64-B49A-0482B40B2E57}|GlobalTicket.TicketManagement.Domain\\GlobalTicket.TicketManagement.Domain.csproj|solutionrelative:globalticket.ticketmanagement.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\events\\commands\\createevent\\createeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\events\\commands\\createevent\\createeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\categories\\commands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\categories\\commands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\events\\queries\\geteventdetail\\geteventdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\events\\queries\\geteventdetail\\geteventdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\events\\queries\\geteventdetail\\geteventdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\events\\queries\\geteventdetail\\geteventdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\events\\commands\\updateevent\\updateeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\events\\commands\\updateevent\\updateeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\events\\commands\\updateevent\\updateeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\events\\commands\\updateevent\\updateeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\events\\commands\\deleteevent\\deleteeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\events\\commands\\deleteevent\\deleteeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\events\\commands\\deleteevent\\deleteeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\events\\commands\\deleteevent\\deleteeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\contracts\\presistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\contracts\\presistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1469FDD4-90C4-4D64-B49A-0482B40B2E57}|GlobalTicket.TicketManagement.Domain\\GlobalTicket.TicketManagement.Domain.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1469FDD4-90C4-4D64-B49A-0482B40B2E57}|GlobalTicket.TicketManagement.Domain\\GlobalTicket.TicketManagement.Domain.csproj|solutionrelative:globalticket.ticketmanagement.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslistwithevents\\getcategorieslistwitheventsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslistwithevents\\getcategorieslistwitheventsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslistwithevents\\getcategorieslistwitheventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslistwithevents\\getcategorieslistwitheventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslistwithevents\\categoryeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslistwithevents\\categoryeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslist\\getcategorieslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslist\\getcategorieslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\events\\queries\\geteventdetail\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\events\\queries\\geteventdetail\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslist\\getcategorieslistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslist\\getcategorieslistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslistwithevents\\categoryeventlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslistwithevents\\categoryeventlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslist\\categorylistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC29D09-0C7D-4670-AFEC-60CBAFE9C3DB}|GlobalTicket.TicketManagement.Application\\GlobalTicket.TicketManagement.Application.csproj|solutionrelative:globalticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslist\\categorylistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1469FDD4-90C4-4D64-B49A-0482B40B2E57}|GlobalTicket.TicketManagement.Domain\\GlobalTicket.TicketManagement.Domain.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1469FDD4-90C4-4D64-B49A-0482B40B2E57}|GlobalTicket.TicketManagement.Domain\\GlobalTicket.TicketManagement.Domain.csproj|solutionrelative:globalticket.ticketmanagement.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1469FDD4-90C4-4D64-B49A-0482B40B2E57}|GlobalTicket.TicketManagement.Domain\\GlobalTicket.TicketManagement.Domain.csproj|d:\\tareq\\plurasight - .net core clean architicture\\globalticket.ticketmanagement\\globalticket.ticketmanagement.domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1469FDD4-90C4-4D64-B49A-0482B40B2E57}|GlobalTicket.TicketManagement.Domain\\GlobalTicket.TicketManagement.Domain.csproj|solutionrelative:globalticket.ticketmanagement.domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\CategoryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GlobalTicket.TicketManagement.Application\\Features\\Events\\CategoryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\EventDetailVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GlobalTicket.TicketManagement.Application\\Features\\Events\\EventDetailVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\EventLisVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GlobalTicket.TicketManagement.Application\\Features\\Events\\EventLisVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PresistenceServiceRegestration.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\PresistenceServiceRegestration.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Presistence\\PresistenceServiceRegestration.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\PresistenceServiceRegestration.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Presistence\\PresistenceServiceRegestration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:59:59.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Presistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Presistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:38:01.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Presistence\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\Repositories\\CategoryRepository.cs*",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Presistence\\Repositories\\CategoryRepository.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:38:01.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EeventRepository.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\Repositories\\EeventRepository.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Presistence\\Repositories\\EeventRepository.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\Repositories\\EeventRepository.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Presistence\\Repositories\\EeventRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:38:00.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Presistence\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Presistence\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:22:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateCategoryCommandHandler.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommandHandler.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommandHandler.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:11:37.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IEventRepository.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IEventRepository.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:07:52.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationServiceRegestration.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\ApplicationServiceRegestration.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\ApplicationServiceRegestration.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\ApplicationServiceRegestration.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\ApplicationServiceRegestration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:04:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCategoryCommandValidator.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommandValidator.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommandValidator.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommandValidator.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommandValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:11:37.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IOrderRepository.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IOrderRepository.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:09:21.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalTicketDbContext.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\GlobalTicketDbContext.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Presistence\\GlobalTicketDbContext.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\GlobalTicketDbContext.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Presistence\\GlobalTicketDbContext.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAowL4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:01:32.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventConiguration.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\Conigurations\\EventConiguration.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Presistence\\Conigurations\\EventConiguration.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Presistence\\Conigurations\\EventConiguration.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Presistence\\Conigurations\\EventConiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:12:05.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateEventCommandValidator.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommandValidator.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommandValidator.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommandValidator.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommandValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:40:37.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:51:29.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:52:03.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateEventCommand.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommand.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommand.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommand.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:24:58.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateCategoryCommand.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommand.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommand.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:11:36.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateEventCommandHandler.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommandHandler.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommandHandler.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommandHandler.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\CreateEvent\\CreateEventCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:30:07.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\ICategoryRepository.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\ICategoryRepository.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:09:21.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:52:03.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:52:03.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateEventCommandHandler.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\UpdateEvent\\UpdateEventCommandHandler.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\UpdateEvent\\UpdateEventCommandHandler.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\UpdateEvent\\UpdateEventCommandHandler.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\UpdateEvent\\UpdateEventCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T17:09:47.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateEventCommand.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\UpdateEvent\\UpdateEventCommand.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\UpdateEvent\\UpdateEventCommand.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\UpdateEvent\\UpdateEventCommand.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\UpdateEvent\\UpdateEventCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T17:09:47.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Profiles\\MappingProfile.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:04:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetEventDetailsQuery.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\GetEventDetailsQuery.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\GetEventDetailsQuery.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\GetEventDetailsQuery.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\GetEventDetailsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:08:09.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetEventDetailsQueryHandler.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\GetEventDetailsQueryHandler.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\GetEventDetailsQueryHandler.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\GetEventDetailsQueryHandler.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\GetEventDetailsQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:08:13.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteEventCommandHandler.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\DeleteEvent\\DeleteEventCommandHandler.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\DeleteEvent\\DeleteEventCommandHandler.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\DeleteEvent\\DeleteEventCommandHandler.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\DeleteEvent\\DeleteEventCommandHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T17:22:07.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteEventCommand.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\DeleteEvent\\DeleteEventCommand.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\DeleteEvent\\DeleteEventCommand.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\DeleteEvent\\DeleteEventCommand.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Commands\\DeleteEvent\\DeleteEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T17:22:07.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IAsyncRepository.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IAsyncRepository.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Contracts\\Presistence\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:04:39.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetCategoriesListWithEventsQueryHandler.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\GetCategoriesListWithEventsQueryHandler.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\GetCategoriesListWithEventsQueryHandler.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\GetCategoriesListWithEventsQueryHandler.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\GetCategoriesListWithEventsQueryHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:06:33.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetCategoriesListWithEventsQuery.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\GetCategoriesListWithEventsQuery.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\GetCategoriesListWithEventsQuery.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\GetCategoriesListWithEventsQuery.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\GetCategoriesListWithEventsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:00:52.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryEventDto.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\CategoryEventDto.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\CategoryEventDto.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\CategoryEventDto.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\CategoryEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:00:31.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Domain\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Domain\\Entities\\Event.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Domain\\Entities\\Event.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Domain\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:51:23.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetCategoriesListQuery.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQuery.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQuery.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQuery.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:59:23.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\CategoryDto.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\CategoryDto.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:08:07.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetCategoriesListQueryHandler.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQueryHandler.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQueryHandler.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQueryHandler.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:59:37.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryEventListVm.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\CategoryEventListVm.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\CategoryEventListVm.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\CategoryEventListVm.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesListWithEvents\\CategoryEventListVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:00:48.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryListVm.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\CategoryListVm.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\CategoryListVm.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\CategoryListVm.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\CategoryListVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:59:18.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\CategoryDto.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\CategoryDto.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\CategoryDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:12:25.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EventDetailVM.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\EventDetailVM.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\EventDetailVM.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\EventDetailVM.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\EventDetailVM.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:09:02.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetEventDetailsQuery.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQuery.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQuery.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQuery.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQuery.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:08:08.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetEventDetailsQueryHandler.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQueryHandler.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQueryHandler.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQueryHandler.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventDetailsQueryHandler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:15:21.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetEventsListQueryHandler.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQueryHandler.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQueryHandler.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQueryHandler.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQueryHandler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:55:32.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EventLisVM.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\EventLisVM.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\EventLisVM.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\EventLisVM.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\EventLisVM.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:53:36.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetEventsListQuery.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQuery.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQuery.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQuery.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Application\\Features\\Events\\GetEventsListQuery.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:52:12.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Domain\\Common\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Domain\\Common\\AuditableEntity.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Domain\\Common\\AuditableEntity.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Domain\\Common\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:54:43.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "GlobalTicket.TicketManagement.Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\TAREQ\\Plurasight - .NET Core Clean Architicture\\GlobalTicket.TicketManagement\\GlobalTicket.TicketManagement.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "GlobalTicket.TicketManagement.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:51:26.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
